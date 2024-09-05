@@ -10,12 +10,17 @@ This guide has been developed for Raspberry Pi Zero/Zero 2/3/4/5... basically an
 ## Setup Steps
 The basic setup steps that are covered include:
 - Creating a Bootable MicroSD Card
-- Configuring Common
+- (Optional, but Recommended) Customizing Your Raspbian OS Before Install
 
 ## Necessary Hardware
 - Raspberry Pi (Zero/Zero 2/3/4/5)
 - MicroSD card (8GB minimum, 16GB or larger recommended)
 - A method to connect your microSD card to a computer (typically a USB dongle or, for laptops with SD card readers, a microSD-to-SD adapter)
+
+## Good Links
+- Toms has a [good guide](https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html) that includes a section to enable options without using the OS editing options
+
+## Stand Up the Pi
 
 ### Creating a Bootable MicroSD Card
 
